@@ -1,4 +1,4 @@
-# rrt-path-planning
+# Robotics path planning using RRT algorithm
 Path planning in an indoor room with several obstacles for robotics using Rapidly-exploring Random Tree algorithm.
 
 [![Demo RRT Algorithm](https://oskarnatan.staff.ugm.ac.id/files/2020/12/RRT-Oskar.gif)](https://oskarnatan.staff.ugm.ac.id/research/)
