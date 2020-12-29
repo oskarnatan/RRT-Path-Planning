@@ -1,7 +1,7 @@
 # Robotics path planning using RRT algorithm
 Path planning in an indoor room with several obstacles for robotics using Rapidly-exploring Random Tree algorithm.
 
-<img src="RRT-oskar.gif" width="600">
+<img src="RRT-Oskar.gif" width="600">
 
 How to run.
 1. Install python3
